@@ -1,4 +1,4 @@
-# Text Case Converter PRO
+# Text Case Converter 
 
 A clean and modern **Text Case Converter** built with **HTML, CSS and JavaScript**.
 
